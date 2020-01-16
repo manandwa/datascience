@@ -1,0 +1,4 @@
+date', 'number_of_game','day_of_week'
+'length_outs', 'day_night', 'completion', 'forefeit',
+'protest', 'park_id', 'attendance', 'length_minutes',
+'additional_info', 'acquisition_info'
